@@ -1,5 +1,5 @@
 # Android XML Animation
-Set of android XML animation
+Set of android XML animations
 
 
 ## Disclaimer
